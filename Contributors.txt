@@ -3,3 +3,6 @@ slackname:Amanie
 
 Name: Abdulazeez Shittu 
 slackname:abdulazeez.shittu 
+
+Name: Olajide Emmanuel 
+slackname: princedevc 
